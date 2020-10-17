@@ -1,0 +1,26 @@
+
+/* Below code For using the tag selector*/
+
+h1 {
+  font-size : 200%;
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+}
+img {
+  background-color: gold;
+}
+
+/* Below code For using the class selector*/
+
+.bsconimg {
+  background-color: green;
+}
+.sparkle {
+  background-color: pink;
+}
+
+/* Below code For using the ID selector*/
+#heading3 {
+  color: skyblue;
+}
